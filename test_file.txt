@@ -5,3 +5,4 @@ commit4
 commit5
 commit6_on_feature_branch_from_mainRebase
 commit7_on_feature_branch_from_mainRebase
+commit8_on_feature_branch_from_mainRebase
